@@ -22,6 +22,10 @@ namespace DotNetCoreWithMySql.Controllers
         {
             return View();
         }
+        public IActionResult Student()
+        {
+            return View();
+        }
 
         public IActionResult Privacy()
         {
