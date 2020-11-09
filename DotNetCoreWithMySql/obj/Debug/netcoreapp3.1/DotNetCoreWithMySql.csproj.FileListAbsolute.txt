@@ -425,7 +425,7 @@ C:\Users\Developer Prince\source\repos\DotNetCoreWithMySql\DotNetCoreWithMySql\o
 C:\Users\Developer Prince\source\repos\DotNetCoreWithMySql\DotNetCoreWithMySql\obj\Debug\netcoreapp3.1\DotNetCoreWithMySql.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Developer Prince\source\repos\DotNetCoreWithMySql\DotNetCoreWithMySql\obj\Debug\netcoreapp3.1\Razor\Views\Home\Student.cshtml.g.cs
 C:\Users\Developer Prince\source\repos\DotNetCoreWithMySql\DotNetCoreWithMySql\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
-C:\Users\Developer Prince\source\repos\DotNetCoreWithMySql\DotNetCoreWithMySql\obj\Debug\netcoreapp3.1\Razor\Views\Student\Details.cshtml.g.cs
 C:\Users\Developer Prince\source\repos\DotNetCoreWithMySql\DotNetCoreWithMySql\obj\Debug\netcoreapp3.1\Razor\Views\Student\Create.cshtml.g.cs
-C:\Users\Developer Prince\source\repos\DotNetCoreWithMySql\DotNetCoreWithMySql\obj\Debug\netcoreapp3.1\Razor\Views\Student\Edit.cshtml.g.cs
 C:\Users\Developer Prince\source\repos\DotNetCoreWithMySql\DotNetCoreWithMySql\obj\Debug\netcoreapp3.1\Razor\Views\Student\Delete.cshtml.g.cs
+C:\Users\Developer Prince\source\repos\DotNetCoreWithMySql\DotNetCoreWithMySql\obj\Debug\netcoreapp3.1\Razor\Views\Student\Edit.cshtml.g.cs
+C:\Users\Developer Prince\source\repos\DotNetCoreWithMySql\DotNetCoreWithMySql\obj\Debug\netcoreapp3.1\Razor\Views\Student\Details.cshtml.g.cs
